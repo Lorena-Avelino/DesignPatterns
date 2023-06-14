@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\loren\Documents\IFNMG - CC\POO\java-design-patterns-master\java-design-patterns-master\template-method\src\main\java\com\iluwatar\templatemethod\App.java">
+</file>
+<file name="C:\Users\loren\Documents\IFNMG - CC\POO\java-design-patterns-master\java-design-patterns-master\template-method\src\main\java\com\iluwatar\templatemethod\HalflingThief.java">
+</file>
+<file name="C:\Users\loren\Documents\IFNMG - CC\POO\java-design-patterns-master\java-design-patterns-master\template-method\src\main\java\com\iluwatar\templatemethod\HitAndRunMethod.java">
+</file>
+<file name="C:\Users\loren\Documents\IFNMG - CC\POO\java-design-patterns-master\java-design-patterns-master\template-method\src\main\java\com\iluwatar\templatemethod\StealingMethod.java">
+</file>
+<file name="C:\Users\loren\Documents\IFNMG - CC\POO\java-design-patterns-master\java-design-patterns-master\template-method\src\main\java\com\iluwatar\templatemethod\SubtleMethod.java">
+</file>
+</checkstyle>
